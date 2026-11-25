@@ -8,22 +8,22 @@
   <description>A short audio briefing on markets, Norway and the world, published every morning and evening. Rates, earnings, Nordic property, energy and the news that moves them.</description>
   <itunes:summary>A short audio briefing on markets, Norway and the world, published every morning and evening. Rates, earnings, Nordic property, energy and the news that moves them.</itunes:summary>
   <itunes:author>The Oslo Brief</itunes:author>
-  
+  <itunes:owner><itunes:name>The Oslo Brief</itunes:name><itunes:email>rrreaft@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://rrreaft.github.io/News-brief/cover.jpg"/>
   <image><url>https://rrreaft.github.io/News-brief/cover.jpg</url><title>The Oslo Brief</title><link>https://rrreaft.github.io/News-brief/</link></image>
   <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
   <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 25 Nov 2026 22:12:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 22:20:08 +0000</lastBuildDate>
   <item>
    <title>Wednesday 25 November, evening</title>
-   <description>Norway's 2027 budget deal without a majority, a new US tariff warning, the AI trade, markets and Nordic property.</description>
-   <itunes:summary>Norway's 2027 budget deal without a majority, a new US tariff warning, the AI trade, markets and Nordic property.</itunes:summary>
-   <enclosure url="https://rrreaft.github.io/News-brief/episodes/2026-11-25-evening.mp3" length="2351367" type="audio/mpeg"/>
+   <description>US proposes tariffs on 14 economies as sticky inflation locks in a December Fed hike; Norway's budget deal lacks a majority; Nordic property rallies; Deere.</description>
+   <itunes:summary>US proposes tariffs on 14 economies as sticky inflation locks in a December Fed hike; Norway's budget deal lacks a majority; Nordic property rallies; Deere.</itunes:summary>
+   <enclosure url="https://rrreaft.github.io/News-brief/episodes/2026-11-25-evening.mp3" length="6415383" type="audio/mpeg"/>
    <guid isPermaLink="false">oslo-brief-2026-11-25-evening</guid>
    <pubDate>Wed, 25 Nov 2026 21:00:00 +0100</pubDate>
-   <itunes:duration>00:06:31</itunes:duration>
+   <itunes:duration>00:13:21</itunes:duration>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
   </item>

@@ -15,7 +15,18 @@
   <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 25 Nov 2026 22:20:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 06:09:21 +0000</lastBuildDate>
+  <item>
+   <title>Thursday 26 November, morning</title>
+   <description>Wall Street's 4.6% intraday plunge and recovery, credit warnings on Oracle and Nvidia, a Houthi attack claim on Saudi Arabia's biggest refinery, and Norway's budget standoff.</description>
+   <itunes:summary>Wall Street's 4.6% intraday plunge and recovery, credit warnings on Oracle and Nvidia, a Houthi attack claim on Saudi Arabia's biggest refinery, and Norway's budget standoff.</itunes:summary>
+   <enclosure url="https://rrreaft.github.io/News-brief/episodes/2026-11-26-morning.mp3" length="4859991" type="audio/mpeg"/>
+   <guid isPermaLink="false">oslo-brief-2026-11-26-morning</guid>
+   <pubDate>Thu, 26 Nov 2026 07:00:00 +0100</pubDate>
+   <itunes:duration>00:10:07</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
    <title>Wednesday 25 November, evening</title>
    <description>US proposes tariffs on 14 economies as sticky inflation locks in a December Fed hike; Norway's budget deal lacks a majority; Nordic property rallies; Deere.</description>

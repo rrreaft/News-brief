@@ -15,7 +15,18 @@
   <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 26 Nov 2026 06:09:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 20:12:02 +0000</lastBuildDate>
+  <item>
+   <title>Thursday 26 November, evening</title>
+   <description>Europe rallies as US caps tariffs at deal rates, oil climbs ahead of OPEC+, Norway's mainland economy nearly stalls, and Nordic property extends its rally.</description>
+   <itunes:summary>Europe rallies as US caps tariffs at deal rates, oil climbs ahead of OPEC+, Norway's mainland economy nearly stalls, and Nordic property extends its rally.</itunes:summary>
+   <enclosure url="https://rrreaft.github.io/News-brief/episodes/2026-11-26-evening.mp3" length="4726509" type="audio/mpeg"/>
+   <guid isPermaLink="false">oslo-brief-2026-11-26-evening</guid>
+   <pubDate>Thu, 26 Nov 2026 21:00:00 +0100</pubDate>
+   <itunes:duration>00:09:51</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
    <title>Thursday 26 November, morning</title>
    <description>Wall Street's 4.6% intraday plunge and recovery, credit warnings on Oracle and Nvidia, a Houthi attack claim on Saudi Arabia's biggest refinery, and Norway's budget standoff.</description>

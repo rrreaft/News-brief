@@ -15,7 +15,18 @@
   <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 26 Nov 2026 20:12:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 06:09:10 +0000</lastBuildDate>
+  <item>
+   <title>Friday 27 November, morning</title>
+   <description>Asia rallies and US futures rise ahead of Wall Street's half day, oil climbs as Houthi attacks on Saudi Arabia widen, gold jumps, and Norway's budget heads for Monday's deadline.</description>
+   <itunes:summary>Asia rallies and US futures rise ahead of Wall Street's half day, oil climbs as Houthi attacks on Saudi Arabia widen, gold jumps, and Norway's budget heads for Monday's deadline.</itunes:summary>
+   <enclosure url="https://rrreaft.github.io/News-brief/episodes/2026-11-27-morning.mp3" length="6146157" type="audio/mpeg"/>
+   <guid isPermaLink="false">oslo-brief-2026-11-27-morning</guid>
+   <pubDate>Fri, 27 Nov 2026 07:00:00 +0100</pubDate>
+   <itunes:duration>00:12:48</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
    <title>Thursday 26 November, evening</title>
    <description>Europe rallies as US caps tariffs at deal rates, oil climbs ahead of OPEC+, Norway's mainland economy nearly stalls, and Nordic property extends its rally.</description>

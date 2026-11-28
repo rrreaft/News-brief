@@ -15,7 +15,18 @@
   <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Fri, 27 Nov 2026 20:12:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 06:02:56 +0000</lastBuildDate>
+  <item>
+   <title>Saturday 28 November, morning</title>
+   <description>Nvidia pauses AI-server shipments to Southeast Asia before Jensen Huang faces Congress, the Jazan refinery strike, OPEC+ on Sunday, Norway's data-centre conflict-of-interest row and the budget deadline.</description>
+   <itunes:summary>Nvidia pauses AI-server shipments to Southeast Asia before Jensen Huang faces Congress, the Jazan refinery strike, OPEC+ on Sunday, Norway's data-centre conflict-of-interest row and the budget deadline.</itunes:summary>
+   <enclosure url="https://rrreaft.github.io/News-brief/episodes/2026-11-28-morning.mp3" length="5566893" type="audio/mpeg"/>
+   <guid isPermaLink="false">oslo-brief-2026-11-28-morning</guid>
+   <pubDate>Sat, 28 Nov 2026 07:00:00 +0100</pubDate>
+   <itunes:duration>00:11:36</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
    <title>Friday 27 November, evening</title>
    <description>Wall Street caps a strong week with a half-day rally, oil gives back its gains, Altria weighs a bid for Imperial Brands, FrP presents its budget, and Nordic property rises for a fourth day.</description>
